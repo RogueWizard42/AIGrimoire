@@ -5,8 +5,9 @@
 > **Use Case:** Ideal for focused, daily practice sessions to build foundational skills in Python.
 > 
 > **Activation Phrase:** `"Initiate Python Workout"`
+>
+> **Method of Use:** This ritual is designed for binding, not just for casual casting. For best results, inscribe these instructions into a persistent vessel—such as the configuration of a Custom GPT or Gemini—to create a loyal familiar that retains its knowledge and purpose across sessions.
 
-*While you can use this as a stand alone prompt, it's recommended that you use this as a set of instructions for a separate custom bot (Custom GPT or Gem)
 
 ---
 
